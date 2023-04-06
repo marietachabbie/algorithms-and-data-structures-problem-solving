@@ -1,6 +1,9 @@
 /* The problem in leetcode:
 https://leetcode.com/problems/two-sum */
 
+#ifndef two_sum_h
+#define two_sum_h
+
 #include <iostream>
 #include <map>
 using namespace std;
@@ -31,3 +34,4 @@ public:
     }
 };
 
+#endif

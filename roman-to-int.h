@@ -1,6 +1,9 @@
 /* The problem in leetcode:
 https://leetcode.com/problems/roman-to-integer */
 
+#ifndef roman_to_int_h
+#define roman_to_int_h
+
 #include <iostream>
 #include <string>
 #include <map>
@@ -36,3 +39,5 @@ public:
         return result;
     }
 };
+
+#endif

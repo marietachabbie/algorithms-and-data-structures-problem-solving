@@ -1,6 +1,9 @@
 /* The problem in leetcode:
 https://leetcode.com/problems/remove-duplicates-from-sorted-array */
 
+#ifndef remove_duplicates_from_sorted_array_h
+#define remove_duplicates_from_sorted_array_h
+
 #include <iostream>
 #include <string>
 using namespace std;
@@ -22,3 +25,5 @@ public:
         return ++idx;
     }
 };
+
+#endif

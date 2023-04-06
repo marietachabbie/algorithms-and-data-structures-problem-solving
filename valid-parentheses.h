@@ -1,6 +1,9 @@
 /* The problem in leetcode:
 https://leetcode.com/problems/valid-parentheses */
 
+#ifndef valid_parentheses_h
+#define valid_parentheses_h
+
 #include <iostream>
 #include <string>
 using namespace std;
@@ -34,3 +37,5 @@ public:
         return (opens.size() == 0) ? true : false;
     }
 };
+
+#endif

@@ -1,0 +1,7 @@
+*.pbxproj
+*.xcuserstate
+*.plist
+*.xcworkspacedata
+*.xcbkptlist
+
+main.cpp

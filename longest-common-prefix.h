@@ -1,6 +1,9 @@
 /* The problem in leetcode:
 https://leetcode.com/problems/longest-common-prefix */
 
+#ifndef longest_common_prefix_h
+#define longest_common_prefix_h
+
 #include <iostream>
 #include <string>
 using namespace std;
@@ -33,3 +36,4 @@ public:
     }
 };
 
+#endif

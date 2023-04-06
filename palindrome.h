@@ -1,6 +1,9 @@
 /* The problem in leetcode:
 https://leetcode.com/problems/valid-palindrome */
 
+#ifndef palindrome_h
+#define palindrome_h
+
 #include <iostream>
 #include <string>
 using namespace std;
@@ -26,3 +29,5 @@ public:
         return true;
     }
 };
+
+#endif
