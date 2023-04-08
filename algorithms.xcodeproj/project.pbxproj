@@ -34,7 +34,6 @@
 		2A0602EF29E1A9FB0062FE11 /* roman-to-int.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "roman-to-int.h"; sourceTree = "<group>"; };
 		2A379E5929E1A3A300101623 /* algorithms */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = algorithms; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A379E5C29E1A3A300101623 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		2A379E6329E1A53F00101623 /* find-peak-2d.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "find-peak-2d.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,7 +67,6 @@
 			isa = PBXGroup;
 			children = (
 				2A379E5C29E1A3A300101623 /* main.cpp */,
-				2A379E6329E1A53F00101623 /* find-peak-2d.h */,
 				2A0602EB29E1A9FB0062FE11 /* find-peak-element-2D.h */,
 				2A0602E829E1A9FB0062FE11 /* find-peak-element.h */,
 				2A0602ED29E1A9FB0062FE11 /* longest-common-prefix.h */,
