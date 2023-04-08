@@ -35,6 +35,7 @@
 		2A379E5929E1A3A300101623 /* algorithms */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = algorithms; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A379E5C29E1A3A300101623 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		2AB7F93E29E1D19D00D0C9B9 /* mountain-array.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "mountain-array.h"; sourceTree = "<group>"; };
+		2AB7F93F29E1DF9800D0C9B9 /* binary-search.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "binary-search.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +79,7 @@
 				2A0602EE29E1A9FB0062FE11 /* two-sum.h */,
 				2A0602E729E1A9FB0062FE11 /* valid-parentheses.h */,
 				2AB7F93E29E1D19D00D0C9B9 /* mountain-array.h */,
+				2AB7F93F29E1DF9800D0C9B9 /* binary-search.h */,
 			);
 			path = algorithms;
 			sourceTree = "<group>";
