@@ -3,5 +3,6 @@
 *.plist
 *.xcworkspacedata
 *.xcbkptlist
+*.xcodeproj/*
 
 main.cpp
