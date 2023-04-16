@@ -37,6 +37,7 @@
 		2A084E5529EADE0500C22251 /* relative-sort-array.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "relative-sort-array.h"; sourceTree = "<group>"; };
 		2A084E5629EAFD6F00C22251 /* merge-sort-vector.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "merge-sort-vector.h"; sourceTree = "<group>"; };
 		2A084E5829EC3A9800C22251 /* heap-sort-array.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "heap-sort-array.h"; sourceTree = "<group>"; };
+		2A084E5929EC774C00C22251 /* binary-search-tree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "binary-search-tree.h"; sourceTree = "<group>"; };
 		2A379E5929E1A3A300101623 /* algorithms */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = algorithms; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A379E5C29E1A3A300101623 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		2AB7F93E29E1D19D00D0C9B9 /* mountain-array.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "mountain-array.h"; sourceTree = "<group>"; };
@@ -90,6 +91,7 @@
 				2A084E5529EADE0500C22251 /* relative-sort-array.h */,
 				2A084E5629EAFD6F00C22251 /* merge-sort-vector.h */,
 				2A084E5829EC3A9800C22251 /* heap-sort-array.h */,
+				2A084E5929EC774C00C22251 /* binary-search-tree.h */,
 			);
 			path = algorithms;
 			sourceTree = "<group>";
