@@ -46,6 +46,7 @@
 		2A084E5F29F4503300C22251 /* maximum-product-of-three-numbers.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "maximum-product-of-three-numbers.h"; sourceTree = "<group>"; };
 		2A084E6029F4559900C22251 /* problems:maximum-product-of-two-numbers.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "problems:maximum-product-of-two-numbers.h"; sourceTree = "<group>"; };
 		2A084E6129F4564300C22251 /* maximum-product-of-two-numbers.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "maximum-product-of-two-numbers.h"; sourceTree = "<group>"; };
+		2A084E6229F462D300C22251 /* maximum-product-difference-between-two-pairs.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "maximum-product-difference-between-two-pairs.h"; sourceTree = "<group>"; };
 		2A379E5929E1A3A300101623 /* algorithms */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = algorithms; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A379E5C29E1A3A300101623 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		2AB7F93E29E1D19D00D0C9B9 /* mountain-array.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "mountain-array.h"; sourceTree = "<group>"; };
@@ -108,6 +109,7 @@
 				2A084E5E29F401D900C22251 /* single-number.h */,
 				2A084E5F29F4503300C22251 /* maximum-product-of-three-numbers.h */,
 				2A084E6129F4564300C22251 /* maximum-product-of-two-numbers.h */,
+				2A084E6229F462D300C22251 /* maximum-product-difference-between-two-pairs.h */,
 			);
 			path = algorithms;
 			sourceTree = "<group>";
