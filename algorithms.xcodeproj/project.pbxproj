@@ -43,6 +43,7 @@
 		2A084E5C29ECA68C00C22251 /* palindrome-number.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "palindrome-number.h"; sourceTree = "<group>"; };
 		2A084E5D29F3FEBB00C22251 /* fibonacci-with-memoization.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "fibonacci-with-memoization.h"; sourceTree = "<group>"; };
 		2A084E5E29F401D900C22251 /* single-number.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "single-number.h"; sourceTree = "<group>"; };
+		2A084E5F29F4503300C22251 /* maximum-product-of-three-numbers.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "maximum-product-of-three-numbers.h"; sourceTree = "<group>"; };
 		2A379E5929E1A3A300101623 /* algorithms */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = algorithms; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A379E5C29E1A3A300101623 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		2AB7F93E29E1D19D00D0C9B9 /* mountain-array.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "mountain-array.h"; sourceTree = "<group>"; };
@@ -102,6 +103,7 @@
 				2A084E5C29ECA68C00C22251 /* palindrome-number.h */,
 				2A084E5D29F3FEBB00C22251 /* fibonacci-with-memoization.h */,
 				2A084E5E29F401D900C22251 /* single-number.h */,
+				2A084E5F29F4503300C22251 /* maximum-product-of-three-numbers.h */,
 			);
 			path = algorithms;
 			sourceTree = "<group>";
