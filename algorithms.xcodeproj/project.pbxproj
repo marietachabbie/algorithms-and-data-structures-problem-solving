@@ -44,13 +44,13 @@
 		2A084E5D29F3FEBB00C22251 /* fibonacci-with-memoization.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "fibonacci-with-memoization.h"; sourceTree = "<group>"; };
 		2A084E5E29F401D900C22251 /* single-number.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "single-number.h"; sourceTree = "<group>"; };
 		2A084E5F29F4503300C22251 /* maximum-product-of-three-numbers.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "maximum-product-of-three-numbers.h"; sourceTree = "<group>"; };
-		2A084E6029F4559900C22251 /* problems:maximum-product-of-two-numbers.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "problems:maximum-product-of-two-numbers.h"; sourceTree = "<group>"; };
 		2A084E6129F4564300C22251 /* maximum-product-of-two-numbers.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "maximum-product-of-two-numbers.h"; sourceTree = "<group>"; };
 		2A084E6229F462D300C22251 /* maximum-product-difference-between-two-pairs.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "maximum-product-difference-between-two-pairs.h"; sourceTree = "<group>"; };
 		2A379E5929E1A3A300101623 /* algorithms */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = algorithms; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A379E5C29E1A3A300101623 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		2AB7F93E29E1D19D00D0C9B9 /* mountain-array.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "mountain-array.h"; sourceTree = "<group>"; };
 		2AB7F93F29E1DF9800D0C9B9 /* binary-search.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "binary-search.h"; sourceTree = "<group>"; };
+		2ACC8FF029FED96300D82513 /* length-of-last-word.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "length-of-last-word.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,7 +67,6 @@
 		2A379E5029E1A3A300101623 = {
 			isa = PBXGroup;
 			children = (
-				2A084E6029F4559900C22251 /* problems:maximum-product-of-two-numbers.h */,
 				2A379E5B29E1A3A300101623 /* algorithms */,
 				2A379E5A29E1A3A300101623 /* Products */,
 			);
@@ -87,6 +86,7 @@
 				2A379E5C29E1A3A300101623 /* main.cpp */,
 				2A0602EB29E1A9FB0062FE11 /* find-peak-element-2D.h */,
 				2A0602E829E1A9FB0062FE11 /* find-peak-element.h */,
+				2ACC8FF029FED96300D82513 /* length-of-last-word.h */,
 				2A0602ED29E1A9FB0062FE11 /* longest-common-prefix.h */,
 				2A0602EC29E1A9FB0062FE11 /* palindrome.h */,
 				2A0602E929E1A9FB0062FE11 /* remove-duplicates-from-sorted-array.h */,
