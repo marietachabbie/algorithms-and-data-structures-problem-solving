@@ -52,6 +52,7 @@
 		2AB7F93F29E1DF9800D0C9B9 /* binary-search.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "binary-search.h"; sourceTree = "<group>"; };
 		2ACC8FF029FED96300D82513 /* length-of-last-word.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "length-of-last-word.h"; sourceTree = "<group>"; };
 		2ACC8FF129FEED3400D82513 /* plus-one.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "plus-one.h"; sourceTree = "<group>"; };
+		2ACC8FF229FFF53600D82513 /* remove-element.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "remove-element.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +113,7 @@
 				2A084E6129F4564300C22251 /* maximum-product-of-two-numbers.h */,
 				2A084E6229F462D300C22251 /* maximum-product-difference-between-two-pairs.h */,
 				2ACC8FF129FEED3400D82513 /* plus-one.h */,
+				2ACC8FF229FFF53600D82513 /* remove-element.h */,
 			);
 			path = algorithms;
 			sourceTree = "<group>";
