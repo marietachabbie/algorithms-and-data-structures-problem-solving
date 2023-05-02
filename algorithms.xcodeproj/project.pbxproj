@@ -57,6 +57,8 @@
 		2ACC8FF42A00014A00D82513 /* square-root.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "square-root.h"; sourceTree = "<group>"; };
 		2ACC8FF52A0007EB00D82513 /* average-salary.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "average-salary.h"; sourceTree = "<group>"; };
 		2ACC8FF62A00330900D82513 /* merge-sorted-arrays.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "merge-sorted-arrays.h"; sourceTree = "<group>"; };
+		2ACC8FF72A017C4100D82513 /* add-digits.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "add-digits.h"; sourceTree = "<group>"; };
+		2ACC8FF82A01982100D82513 /* ugly-number.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ugly-number.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +124,8 @@
 				2ACC8FF42A00014A00D82513 /* square-root.h */,
 				2ACC8FF52A0007EB00D82513 /* average-salary.h */,
 				2ACC8FF62A00330900D82513 /* merge-sorted-arrays.h */,
+				2ACC8FF72A017C4100D82513 /* add-digits.h */,
+				2ACC8FF82A01982100D82513 /* ugly-number.h */,
 			);
 			path = algorithms;
 			sourceTree = "<group>";
