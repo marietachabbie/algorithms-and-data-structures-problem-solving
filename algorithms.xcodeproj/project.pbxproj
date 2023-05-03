@@ -48,6 +48,7 @@
 		2A084E6229F462D300C22251 /* maximum-product-difference-between-two-pairs.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "maximum-product-difference-between-two-pairs.h"; sourceTree = "<group>"; };
 		2A379E5929E1A3A300101623 /* algorithms */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = algorithms; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A379E5C29E1A3A300101623 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		2A4B99982A02D7B100BA24F9 /* word-pattern.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "word-pattern.h"; sourceTree = "<group>"; };
 		2AB7F93E29E1D19D00D0C9B9 /* mountain-array.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "mountain-array.h"; sourceTree = "<group>"; };
 		2AB7F93F29E1DF9800D0C9B9 /* binary-search.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "binary-search.h"; sourceTree = "<group>"; };
 		2ACC8FF029FED96300D82513 /* length-of-last-word.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "length-of-last-word.h"; sourceTree = "<group>"; };
@@ -59,6 +60,9 @@
 		2ACC8FF62A00330900D82513 /* merge-sorted-arrays.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "merge-sorted-arrays.h"; sourceTree = "<group>"; };
 		2ACC8FF72A017C4100D82513 /* add-digits.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "add-digits.h"; sourceTree = "<group>"; };
 		2ACC8FF82A01982100D82513 /* ugly-number.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ugly-number.h"; sourceTree = "<group>"; };
+		2ACC8FF92A02B77A00D82513 /* add-binary.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "add-binary.h"; sourceTree = "<group>"; };
+		2ACC8FFA2A02C4C700D82513 /* power-of-two.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "power-of-two.h"; sourceTree = "<group>"; };
+		2ACC8FFB2A02CA7A00D82513 /* missing-number.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "missing-number.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +130,10 @@
 				2ACC8FF62A00330900D82513 /* merge-sorted-arrays.h */,
 				2ACC8FF72A017C4100D82513 /* add-digits.h */,
 				2ACC8FF82A01982100D82513 /* ugly-number.h */,
+				2ACC8FF92A02B77A00D82513 /* add-binary.h */,
+				2ACC8FFA2A02C4C700D82513 /* power-of-two.h */,
+				2ACC8FFB2A02CA7A00D82513 /* missing-number.h */,
+				2A4B99982A02D7B100BA24F9 /* word-pattern.h */,
 			);
 			path = algorithms;
 			sourceTree = "<group>";
