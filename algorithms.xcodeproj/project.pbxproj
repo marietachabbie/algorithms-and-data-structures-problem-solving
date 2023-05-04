@@ -56,6 +56,7 @@
 		2A4B999D2A03F37900BA24F9 /* reverse-string-ii.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "reverse-string-ii.h"; sourceTree = "<group>"; };
 		2A4B999E2A03F75100BA24F9 /* first-unique-char.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "first-unique-char.h"; sourceTree = "<group>"; };
 		2A4B999F2A0400C700BA24F9 /* intersection-of-two-arrays.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "intersection-of-two-arrays.h"; sourceTree = "<group>"; };
+		2A4B99A02A04120A00BA24F9 /* nim-game.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "nim-game.h"; sourceTree = "<group>"; };
 		2AB7F93E29E1D19D00D0C9B9 /* mountain-array.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "mountain-array.h"; sourceTree = "<group>"; };
 		2AB7F93F29E1DF9800D0C9B9 /* binary-search.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "binary-search.h"; sourceTree = "<group>"; };
 		2ACC8FF029FED96300D82513 /* length-of-last-word.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "length-of-last-word.h"; sourceTree = "<group>"; };
@@ -148,6 +149,7 @@
 				2A4B999D2A03F37900BA24F9 /* reverse-string-ii.h */,
 				2A4B999E2A03F75100BA24F9 /* first-unique-char.h */,
 				2A4B999F2A0400C700BA24F9 /* intersection-of-two-arrays.h */,
+				2A4B99A02A04120A00BA24F9 /* nim-game.h */,
 			);
 			path = algorithms;
 			sourceTree = "<group>";
