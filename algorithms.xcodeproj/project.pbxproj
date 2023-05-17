@@ -78,6 +78,7 @@
 		2AF989602A14EDA2008D891A /* sorting-the-sentence.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "sorting-the-sentence.h"; sourceTree = "<group>"; };
 		2AF989612A1509F7008D891A /* happy-number.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "happy-number.h"; sourceTree = "<group>"; };
 		2AF989622A154E3F008D891A /* perfect-number.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "perfect-number.h"; sourceTree = "<group>"; };
+		2AF989632A155227008D891A /* pascals-triangle.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "pascals-triangle.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -164,6 +165,7 @@
 				2AF989602A14EDA2008D891A /* sorting-the-sentence.h */,
 				2AF989612A1509F7008D891A /* happy-number.h */,
 				2AF989622A154E3F008D891A /* perfect-number.h */,
+				2AF989632A155227008D891A /* pascals-triangle.h */,
 			);
 			path = algorithms;
 			sourceTree = "<group>";
