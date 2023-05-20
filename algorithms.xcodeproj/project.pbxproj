@@ -85,6 +85,7 @@
 		2AF989672A19400F008D891A /* intersection-of-two-arrays-ii.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "intersection-of-two-arrays-ii.h"; sourceTree = "<group>"; };
 		2AF989682A196247008D891A /* majority-element.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "majority-element.h"; sourceTree = "<group>"; };
 		2AF989692A197188008D891A /* number-of-1-bits.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "number-of-1-bits.h"; sourceTree = "<group>"; };
+		2AF9896A2A197D46008D891A /* isomorphic-strings.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "isomorphic-strings.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -178,6 +179,7 @@
 				2AF989672A19400F008D891A /* intersection-of-two-arrays-ii.h */,
 				2AF989682A196247008D891A /* majority-element.h */,
 				2AF989692A197188008D891A /* number-of-1-bits.h */,
+				2AF9896A2A197D46008D891A /* isomorphic-strings.h */,
 			);
 			path = algorithms;
 			sourceTree = "<group>";
